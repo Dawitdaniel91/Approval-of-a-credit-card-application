@@ -33,6 +33,7 @@ Data Sources:https://www.kaggle.com/rikdifos/credit-card-approval-prediction
     5. K Nearest Neighbor classification
     6. XGBoost classification
  
+
  1. import data
  
 load the data CSV data into Jupiter notebook using pandas library
