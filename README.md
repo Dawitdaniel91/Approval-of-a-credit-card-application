@@ -15,3 +15,11 @@ At present, with the development of machine learning algorithms. More predictive
 Data Sources:https://www.kaggle.com/rikdifos/credit-card-approval-prediction
 
             :https://www.kaggle.com/vinaykhujat/credit-card-approval-prediction
+
+### Outline
+
+1. Import data
+2. Data infromatin:data type,discribtion, size, Nan,Checking Numerical Columns,Converting 'DAYS_BIRTH' values from Day to Years
+3. Data Cleanning
+4. unique
+5. 
