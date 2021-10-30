@@ -36,6 +36,7 @@ Data Sources:https://www.kaggle.com/rikdifos/credit-card-approval-prediction
  1. import data
  
  load the data CSV data into jupyter note book using pandas librery 
- 
+ ![image](https://user-images.githubusercontent.com/80365882/139561296-b590a1d6-0b15-4dca-b56c-ac7bb63fe1c3.png)
+
  
  3. 
