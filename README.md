@@ -22,4 +22,20 @@ Data Sources:https://www.kaggle.com/rikdifos/credit-card-approval-prediction
 2. Data infromatin:data type,discribtion, size, Nan,Checking Numerical Columns,Converting 'DAYS_BIRTH' values from Day to Years
 3. Data Cleanning
 4. unique
-5. 
+5. Visualization
+6. Removing Outlier
+7. Merging Dataframes
+8. Machine learning Model and after Balancing dataset the machine learning model pridiction.
+    1. Logistic Regression
+    2. Decision Tree classification
+    3. Random Forest classification
+    4. Support Vector Machine classification
+    5. K Nearest Neighbor classification
+    6. XGBoost classification
+ 
+ 1. import data
+ 
+ load the data CSV data into jupyter note book using pandas librery 
+ 
+ 
+ 3. 
