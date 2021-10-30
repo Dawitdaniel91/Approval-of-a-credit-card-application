@@ -19,7 +19,7 @@ Data Sources:https://www.kaggle.com/rikdifos/credit-card-approval-prediction
 ### Outline
 
 1. Import data
-2. Data infromatin:data type,discribtion, size, Nan,Checking Numerical Columns,Converting 'DAYS_BIRTH' values from Day to Years
+2. Data informatin:data type,discribtion, size, Nan,Checking Numerical Columns
 3. Data Cleanning
 4. unique
 5. Visualization
@@ -35,8 +35,18 @@ Data Sources:https://www.kaggle.com/rikdifos/credit-card-approval-prediction
  
  1. import data
  
- load the data CSV data into jupyter note book using pandas librery 
+load the data CSV data into Jupiter notebook using pandas library
+Table 1
+
  ![image](https://user-images.githubusercontent.com/80365882/139561296-b590a1d6-0b15-4dca-b56c-ac7bb63fe1c3.png)
 
- 
- 3. 
+  2. Data informatin:data type,discribtion, size, Nan,Checking Numerical Columns
+ Data processing is very important for further analysis of using the models. Even though we check the dataset on a spreadsheet before cleaning, it is good looking at the data type, the shape of the data, the Nan or no data, after that making some modifications on the dataset based on the observation. such as if necessary, converting days to years.
+  
+   
+  4. data cleaning
+
+Table 2 data Cleaning
+
+![image](https://user-images.githubusercontent.com/80365882/139561360-8dc1a380-e1a4-49fe-9ff3-e2a8810c9da0.png)
+
