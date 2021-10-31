@@ -34,7 +34,7 @@ Data Sources:https://www.kaggle.com/rikdifos/credit-card-approval-prediction
     6. XGBoost classification
  
 
-### import data
+### Load data
  
 load the data CSV data into Jupiter notebook using pandas library
 Table 1
