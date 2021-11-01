@@ -18,7 +18,7 @@ Data Sources:https://www.kaggle.com/rikdifos/credit-card-approval-prediction
 
 ### Outline
 
-1. Import data
+1. Load data
 2. Data informatin:data type,discribtion, size, Nan,Checking Numerical Columns
 3. Data Cleanning
 4. unique
@@ -50,4 +50,34 @@ Table 1
 Table 2 data Cleaning
 
 ![image](https://user-images.githubusercontent.com/80365882/139561360-8dc1a380-e1a4-49fe-9ff3-e2a8810c9da0.png)
+
+5. Checking the unique Value
+Checking unique value help us to see right information in the columns.
+
+6. Removing Outlier
+
+Table 1.
+![image](https://user-images.githubusercontent.com/80365882/139747655-80741242-f02c-43bf-a97e-70c2c6afc44f.png)
+
+Table 2. 
+![image](https://user-images.githubusercontent.com/80365882/139747706-e45e5468-cc2b-4b83-a628-630e6243c8f6.png)
+
+Table 3.
+![image](https://user-images.githubusercontent.com/80365882/139747817-148c6ae3-c515-4a1f-9985-9e572f5b250a.png)
+Table 4.
+![image](https://user-images.githubusercontent.com/80365882/139747854-d1a5ea63-e572-448c-8be8-f3f579bf2d51.png)
+
+Table 5.
+![image](https://user-images.githubusercontent.com/80365882/139747896-94a622b4-81b8-48e0-bcba-9be5441c60ef.png)
+
+### Removing Outlier
+
+![image](https://user-images.githubusercontent.com/80365882/139748036-0f224f6b-9cd9-401b-8e91-ecb908793b50.png)
+
+
+
+
+
+
+
 
