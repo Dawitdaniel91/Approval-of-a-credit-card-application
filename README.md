@@ -25,7 +25,7 @@ Data Sources:https://www.kaggle.com/rikdifos/credit-card-approval-prediction
 5. Visualization
 6. Removing Outlier
 7. Merging Dataframes
-8. Machine learning Model and after Balancing dataset the machine learning model pridiction.
+8. Machine learning Model and after Balancing dataset the machine learning model prediction.
     1. Logistic Regression
     2. Decision Tree classification
     3. Random Forest classification
@@ -82,7 +82,7 @@ Table 6.
 Merging the two dataframe(Application and Credit)
 ![image](https://user-images.githubusercontent.com/80365882/139749078-4763d673-598f-43b0-9ffd-dd96ce2aaca6.png)
 
-### Machine learning Model and after Balancing dataset the machine learning model pridiction
+### Machine learning Model and after Balancing dataset the machine learning model prediction
 
 
 
