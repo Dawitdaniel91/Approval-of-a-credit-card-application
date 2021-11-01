@@ -56,21 +56,22 @@ Checking unique value help us to see right information in the columns.
 
 ### Removing Outlier
 
-Table 1.
+Table 3.
 ![image](https://user-images.githubusercontent.com/80365882/139747655-80741242-f02c-43bf-a97e-70c2c6afc44f.png)
 
-Table 2. 
+Table 4. 
 ![image](https://user-images.githubusercontent.com/80365882/139747706-e45e5468-cc2b-4b83-a628-630e6243c8f6.png)
 
-Table 3.
-![image](https://user-images.githubusercontent.com/80365882/139747817-148c6ae3-c515-4a1f-9985-9e572f5b250a.png)
-Table 4.
-![image](https://user-images.githubusercontent.com/80365882/139747854-d1a5ea63-e572-448c-8be8-f3f579bf2d51.png)
-
 Table 5.
-![image](https://user-images.githubusercontent.com/80365882/139747896-94a622b4-81b8-48e0-bcba-9be5441c60ef.png)
+![image](https://user-images.githubusercontent.com/80365882/139747817-148c6ae3-c515-4a1f-9985-9e572f5b250a.png)
 
 Table 6.
+![image](https://user-images.githubusercontent.com/80365882/139747854-d1a5ea63-e572-448c-8be8-f3f579bf2d51.png)
+
+Table 7.
+![image](https://user-images.githubusercontent.com/80365882/139747896-94a622b4-81b8-48e0-bcba-9be5441c60ef.png)
+
+Table 8.
 ![image](https://user-images.githubusercontent.com/80365882/139748309-eb93dd17-eb3d-4d84-b6d0-a6f854d6188d.png)
 
 
