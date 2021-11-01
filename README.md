@@ -41,20 +41,20 @@ Table 1
 
  ![image](https://user-images.githubusercontent.com/80365882/139561296-b590a1d6-0b15-4dca-b56c-ac7bb63fe1c3.png)
 
-  2. Data informatin:data type,discribtion, size, Nan,Checking Numerical Columns
+ ### Data informatin:data type,discribtion, size, Nan,Checking Numerical Columns
  Data processing is very important for further analysis of using the models. Even though we check the dataset on a spreadsheet before cleaning, it is good looking at the data type, the shape of the data, the Nan or no data, after that making some modifications on the dataset based on the observation. such as if necessary, converting days to years.
   
    
-  4. data cleaning
+ ### data cleaning
 
 Table 2 data Cleaning
 
 ![image](https://user-images.githubusercontent.com/80365882/139561360-8dc1a380-e1a4-49fe-9ff3-e2a8810c9da0.png)
 
-5. Checking the unique Value
+### Checking the unique Value
 Checking unique value help us to see right information in the columns.
 
-6. Removing Outlier
+### Removing Outlier
 
 Table 1.
 ![image](https://user-images.githubusercontent.com/80365882/139747655-80741242-f02c-43bf-a97e-70c2c6afc44f.png)
@@ -70,13 +70,19 @@ Table 4.
 Table 5.
 ![image](https://user-images.githubusercontent.com/80365882/139747896-94a622b4-81b8-48e0-bcba-9be5441c60ef.png)
 
+Table 6.
+![image](https://user-images.githubusercontent.com/80365882/139748309-eb93dd17-eb3d-4d84-b6d0-a6f854d6188d.png)
+
+
 ### Removing Outlier
 
 ![image](https://user-images.githubusercontent.com/80365882/139748036-0f224f6b-9cd9-401b-8e91-ecb908793b50.png)
 
+### Merging Dataframes
+Merging the two dataframe(Application and Credit)
+![image](https://user-images.githubusercontent.com/80365882/139749078-4763d673-598f-43b0-9ffd-dd96ce2aaca6.png)
 
-
-
+### Machine learning Model and after Balancing dataset the machine learning model pridiction
 
 
 
